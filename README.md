@@ -120,3 +120,6 @@ If you have any questions about this code, please do not hesitate to contact us.
 [Zhun Zhong](http://zhunzhong.site)
 
 [Liang Zheng](http://liangzheng.com.cn)
+
+### 李剑备注
+1、https://blog.csdn.net/xuluohongshang/article/details/79000951 数据增强（检测，分类，识别）：1708.Random Erasing Data Augmentation 论文笔记
